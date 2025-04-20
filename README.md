@@ -10,14 +10,14 @@ A custom **404 error page** designed to replace the default "Page Not Found" scr
 
 - Custom and creative design
 - Responsive layout for all screen sizes
-- Simple and lightweight HTML/CSS
+- Simple and lightweight HTML/CSS/Javascript
 - Works seamlessly with GitHub Pages
 
 ---
 
 ## 📁 Project Structure
 
-Github_Err_404/ ├── 404.html # Main error page ├── style.css # Stylesheet for the page └── assets/ # (Optional) Images, icons, or fonts
+Github_Err_404/ ├── 404.html # Main error page ├── style.css ├──Javascript └── assets/ # (Optional) Images, icons, or fonts
 
 
 ---
@@ -34,7 +34,7 @@ To use this custom 404 page on your GitHub Pages site:
 
 ## 📷 Preview
 
-![404 Preview](preview.png) <!-- Replace with an actual preview image if available -->
+![404 Preview](demo.png) <!-- Replace with an actual preview image if available -->
 
 ---
 
