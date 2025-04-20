@@ -2,7 +2,7 @@
 
 A custom **404 error page** designed to replace the default "Page Not Found" screen on GitHub Pages. This project adds a creative and user-friendly touch to missing pages on your GitHub Pages website.
 
-🚀 **Live Demo**: [View the 404 Page](https://satyam-umrao.github.io/Github_Err_404/)
+🚀 **Live Demo**: [View the 404 Page](https://satyam-umrao.github.io/Github_Err_404_new/)
 
 ---
 
