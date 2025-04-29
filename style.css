@@ -67,8 +67,7 @@ header {
 
 .mobile-menu {
    background-color: #272727;
-   margin-top: 15px;
-   margin-right: 200px;
+   margin-left: -10px;
    position: absolute;
    top: 0%;
    width: 100vw;
