@@ -32,6 +32,7 @@ header {
     justify-content: space-around;
     align-items: center;
     height: 10vh;
+    z-index: 1;
 }
 
 .nav-logo {
@@ -41,6 +42,11 @@ header {
 .nav-list {
     list-style: none;
     display: flex;
+}
+
+.icon-1{
+
+    display: none;
 }
 
 .nav-item {
@@ -60,13 +66,35 @@ header {
 }
 
 .mobile-menu {
-    display: none;
+   background-color: #272727;
+   margin-top: 15px;
+   margin-right: 200px;
+   position: absolute;
+   top: 0%;
+   width: 100vw;
+   height: 70vw;
+   display: none;
+   align-items: center;
+   justify-content: center;
+   list-style-type: none;
+   z-index: 10;
 }
 
 main {
     max-width: 1000px;
     margin: 0 auto;
     height: 95vh;
+}
+
+.icon-2{
+    display: flex; 
+    color: var(--fourth-color);
+    font-size: 1.8rem;
+    position: absolute;
+    flex-direction: initial;
+    right: 10px;
+    margin: 25px;
+    top: 0px; 
 }
 
 .home {
@@ -191,8 +219,15 @@ footer a {
         margin: 0;
     }
 
+    .icon-1{
+        display: flex;
+    }
+
     .mobile-menu-icon {
-        display: block;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        list-style-type: none;
     }
 
     .mobile-menu-icon button {
